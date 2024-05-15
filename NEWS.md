@@ -1,3 +1,7 @@
+# ptm 1.0.1
+
+The structure of the package has been substantially simplified reducing multiples third parties dependencies in order to gain in robustness and portability. The focus has been put on the posttranslational modification of methionine. The users interested in the original functionality (extended utilities) still can opt to download one of the older version of the package at https://bitbucket.org/jcaledo/ptm. 
+
 # ptm 0.2.7
 
 1. Added a `NEWS.md` file to track changes to the package.
