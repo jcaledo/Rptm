@@ -8,7 +8,7 @@ This is a resubmission. The structure of the package has now been substantially 
 
 * win-builder (devel and release)
 
-* rhub: linux (R-devel), macos (R-devel), macos-arm64 (R-devel), windows (R-devel)
+* rhub: linux (R-devel), macos (R-devel), macos-arm64 (R-devel), windows (R-devel), nold-linux.
 
 ## R CMD check results
 
