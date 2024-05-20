@@ -12,7 +12,6 @@ Bioinformatics, Volume 37, Issue 21, 1 November 2021, Pages 3979–3980, https:/
 ## Contributing
 
 We are always interested in improving and adding additional functionality to _ptm_. If you have ideas, suggestions or code that your would like to distribute as part of this package, please contact us (see below).
-You are encouraged to contribute your code or issues directly to this repository. For details on how to do this, please see the [developer wiki]().
 
 ## Contact
 
